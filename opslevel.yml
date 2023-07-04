@@ -1,0 +1,8 @@
+---
+version: 1
+repository:
+  owner:
+  tier: tier_1
+  tags:
+  - key: hello
+    value: world
